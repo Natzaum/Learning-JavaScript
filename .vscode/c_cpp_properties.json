@@ -1,0 +1,20 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "C:\\Programação\\MinGW\\include"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "cStandard": "c17",
+            "cppStandard": "gnu++14",
+            "compilerPath": "C:/Programação/MinGW/bin/g++.exe",
+            "intelliSenseMode": "clang-x64"
+        }
+    ],
+    "version": 4
+}
