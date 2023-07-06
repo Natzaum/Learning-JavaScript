@@ -4,7 +4,6 @@ class Person {
     health = 30
 
     constructor (name){
-        
         this.name = name
     }
 
