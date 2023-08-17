@@ -32,3 +32,4 @@ p1.takePower()
 
 console.log(`${p1.name} tem ${p1.age} anos, ${p1.power} de poder e ${p1.health} de vida`);
 console.log(`${p2.name} tem ${p2.age} anos, ${p2.power} de poder e ${p2.health} de vida`);
+
